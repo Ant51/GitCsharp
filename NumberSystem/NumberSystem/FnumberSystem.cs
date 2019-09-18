@@ -69,7 +69,7 @@ namespace NumberSystem
 
             }
         }
-
+     
         private void transfer_from_other_to_decimal()
             {
             string text = t_number.Text;
@@ -106,7 +106,7 @@ namespace NumberSystem
                             c[i] = 15;
                             break;
                         default:
-                            c = finaltext.Select(x => x - '0').ToArray();
+                            c[i] = (int)(obrtext[i] - '0');
                             break;
                     }
 

@@ -1,0 +1,20 @@
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\1210-Teacher\Documents\Котович Антон Александрович\Progect_C#\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\kotov\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\kotov\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\kotov\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\kotov\source\repos\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\kotov\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\kotov\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\kotov\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\kotov\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\kotov\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\kotov\source\repos\Snake\Snake\obj\Debug\Snake.FGame_Snake.resources

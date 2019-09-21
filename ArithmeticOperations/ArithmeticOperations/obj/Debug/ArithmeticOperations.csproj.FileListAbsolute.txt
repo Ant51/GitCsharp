@@ -1,0 +1,10 @@
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.Properties.Resources.resources
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.GenerateResource.cache
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
+C:\Users\kotov\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.F_ArithmeticOperations.resources
